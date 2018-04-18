@@ -1,0 +1,50 @@
+.titulo {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(32, 23, 23);
+    color: papayawhip;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 25px;
+}
+.resize {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    float: left;
+}
+.info {
+    float: left;
+    width: 25.33%;
+}
+.info li {
+    font-size: 15px;
+}
+
+body {
+    background-color: papayawhip;
+    padding:0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 150%;
+
+}
+.para {
+    float: left;
+    width: 45%;
+}
+
+a {
+    color:red;
+}
+#main {
+}
+
+.contenedor {
+width:1024px;
+margin: 0 auto;
+ }
+
+ .section {
+     background-color: aqua;
+ }
